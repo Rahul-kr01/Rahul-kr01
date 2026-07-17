@@ -1,99 +1,142 @@
-<div align="center">
+<h1 align="center">Hi 👋, I'm Rahul Kumar</h1>
+<h3 align="center">💻 Full Stack .NET Developer | ASP.NET MVC | Web API | C#</h3>
 
-# Hi 👋 I'm Rahul Kumar
-
-### 💻 .NET Developer | ASP.NET MVC | Web API | C# | SQL Server
-
-<img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=24&pause=1000&color=36BCF7&center=true&vCenter=true&width=700&lines=Welcome+to+my+GitHub!;ASP.NET+MVC+Developer;Web+API+Developer;C%23+%7C+SQL+Server+%7C+Entity+Framework;Always+Learning+New+Technologies" />
-
-</div>
+<p align="center">
+<img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=24&pause=1000&color=00BFFF&center=true&vCenter=true&width=900&lines=Welcome+to+my+GitHub+Profile;Full+Stack+.NET+Developer;ASP.NET+MVC+%7C+ASP.NET+Web+API;C%23+%7C+SQL+Server+%7C+Entity+Framework;HTML+%7C+CSS+%7C+JavaScript+%7C+jQuery;Building+Real-World+Projects;Always+Learning+New+Technologies" />
+</p>
 
 ---
 
-## 🚀 About Me
+# 👨‍💻 About Me
 
 🎓 **BCA Student (2026)**
 
-💼 **Aspiring .NET Developer**
+💼 **Aspiring Full Stack .NET Developer**
 
-🔥 Passionate about building real-world web applications using Microsoft Technologies.
+🚀 Passionate about developing scalable and user-friendly web applications using Microsoft Technologies.
 
-🌱 Currently Learning **ASP.NET Core**, **REST APIs**, and **Clean Architecture**.
+🌱 Currently learning **ASP.NET Core**, **REST APIs**, and **Clean Architecture**.
 
-🎯 Goal: Become a Software Engineer and contribute to impactful products.
+🎯 Looking for **Internship** and **Software Developer** opportunities.
 
 ---
 
-# 🛠 Tech Stack
+# 🚀 Tech Stack
 
-<p align="center">
+## 💻 Programming Languages
 
-<img src="https://skillicons.dev/icons?i=cs,dotnet,html,css,js,bootstrap,git,github,visualstudio,vscode,mongodb"/>
+<p>
+
+<img src="https://skillicons.dev/icons?i=cs,cpp,c,python,js"/>
 
 </p>
 
-### Backend
+**C# • C • C++ • Python • JavaScript • SQL**
+
+---
+
+## 🌐 Frontend
+
+<p>
+
+<img src="https://skillicons.dev/icons?i=html,css,bootstrap"/>
+
+</p>
+
+**HTML5 • CSS3 • Bootstrap • JavaScript • jQuery • AJAX**
+
+---
+
+## ⚙ Backend
+
+<p>
+
+<img src="https://skillicons.dev/icons?i=dotnet"/>
+
+</p>
+
+- ASP.NET MVC
+- ASP.NET Web API
+- Entity Framework
+- ADO.NET
+- LINQ
+- REST API
+- JSON
+- XML
+
+---
+
+## 🗄 Database
+
+<p>
+
+<img src="https://skillicons.dev/icons?i=mysql,mongodb"/>
+
+</p>
+
+- SQL Server
+- MySQL
+- MongoDB
+
+---
+
+## 🛠 Tools
+
+<p>
+
+<img src="https://skillicons.dev/icons?i=visualstudio,vscode,git,github"/>
+
+</p>
+
+- Visual Studio 2022
+- Visual Studio Code
+- SQL Server Management Studio (SSMS)
+- Git
+- GitHub
+
+---
+
+# 🚀 Featured Projects
+
+## 📅 Smart Appointment Scheduling & Forum Q&A
+
 ✔ ASP.NET MVC
 
 ✔ ASP.NET Web API
 
 ✔ Entity Framework
 
-✔ ADO.NET
-
-✔ LINQ
-
-### Frontend
-✔ HTML5
-
-✔ CSS3
-
-✔ Bootstrap
-
-✔ JavaScript
-
-✔ jQuery
-
-✔ AJAX
-
-### Database
 ✔ SQL Server
 
-✔ MongoDB
+✔ Doctor & Patient Management
+
+✔ Appointment Booking
+
+✔ Forum Discussion
+
+✔ Admin Dashboard
 
 ---
 
-# 🚀 Featured Projects
+## 🔍 Lost & Found Portal
 
-### 📅 Smart Appointment Scheduling & Forum Q&A
+✔ ASP.NET MVC
 
-🔹 Doctor & Patient Management
+✔ SQL Server
 
-🔹 Appointment Booking
+✔ User Authentication
 
-🔹 REST API Integration
+✔ Lost & Found Item Management
 
-🔹 SQL Server Database
+✔ Search & Filter
 
-🔹 Admin Dashboard
+✔ Image Upload
 
----
-
-### 🔍 Lost & Found Portal
-
-🔹 User Authentication
-
-🔹 Lost & Found Management
-
-🔹 Image Upload
-
-🔹 Search & Filter
-
-🔹 Admin Dashboard
+✔ Admin Dashboard
 
 ---
 
-# 📊 GitHub Analytics
+# 📊 GitHub Stats
 
 <p align="center">
 
@@ -111,36 +154,59 @@
 
 ---
 
-# 🏆 Achievements
+# 🏆 Skills
 
-🏅 Completed .NET Full Stack Training
+✅ ASP.NET MVC
 
-🏅 Built Multiple Real-World Projects
+✅ ASP.NET Web API
 
-🏅 Passionate Continuous Learner
+✅ C#
+
+✅ SQL Server
+
+✅ MySQL
+
+✅ MongoDB
+
+✅ Entity Framework
+
+✅ ADO.NET
+
+✅ LINQ
+
+✅ HTML5
+
+✅ CSS3
+
+✅ Bootstrap
+
+✅ JavaScript
+
+✅ jQuery
+
+✅ AJAX
+
+✅ Git & GitHub
 
 ---
 
 # 🌐 Connect With Me
 
-💼 LinkedIn
-
+💼 LinkedIn  
 https://www.linkedin.com/in/rahul-kumar-9a14a9341
 
-📧 Email
-
-rr3162043@gmail.com
-
-💻 GitHub
-
+💻 GitHub  
 https://github.com/Rahul-kr01
+
+📧 Email  
+rr3162043@gmail.com
 
 ---
 
 <div align="center">
 
-### ⭐ Thanks for visiting my profile ⭐
+## ⭐ Thanks for Visiting My GitHub Profile ⭐
 
-*"Code. Learn. Build. Improve. Repeat."*
+### *"Code • Learn • Build • Grow 🚀"*
 
 </div>
