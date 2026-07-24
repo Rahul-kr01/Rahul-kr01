@@ -3,7 +3,7 @@
 <h3 align="center">💻 Full Stack .NET Developer | ASP.NET MVC | ASP.NET Web API | C#</h3>
 
 <p align="center">
-<img src="https://readme-typing-svg.demolab.com?font=Poppins&size=24&duration=3000&pause=1000&color=00BFFF&center=true&vCenter=true&width=850&lines=Welcome+to+my+GitHub!;Full+Stack+.NET+Developer;ASP.NET+MVC+%7C+ASP.NET+Web+API;C%23+%7C+SQL+Server+%7C+Entity+Framework;Building+Real+World+Projects;Always+Learning+New+Technologies" />
+  <img src="https://readme-typing-svg.demolab.com?font=Poppins&size=24&duration=3000&pause=1000&color=00BFFF&center=true&vCenter=true&width=900&lines=Hi%2C+I'm+Rahul+Yadav!;Full+Stack+.NET+Developer;ASP.NET+MVC+%7C+ASP.NET+Web+API;C%23+%7C+SQL+Server+%7C+Entity+Framework;HTML+%7C+CSS+%7C+Bootstrap+%7C+JavaScript;Building+Real+World+Projects;Open+to+Software+Developer+Opportunities;Always+Learning+New+Technologies" alt="Typing SVG" />
 </p>
 
 <p align="center">
